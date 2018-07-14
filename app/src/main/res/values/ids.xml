@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recipes_recycler_view" type="id">recipes_recycler_view</item>
+    <item name="button_steps" type="id">button_steps</item>
+    <item name="button_ingredients" type="id">button_ingredients</item>
+    <item name="ingredient_list_fragment" type="id">ingredient_list_fragment</item>
+    <item name="text_view_ingredient" type="id">text_view_ingredient</item>
+    <item name="text_view_recipe_item" type="id">text_view_recipe_item</item>
+    <item name="text_view_step_description" type="id">text_view_step_description</item>
+    <item name="viewpager_step_detail" type="id">viewpager_step_detail</item>
+    <item name="widget_recipe_list" type="id">widget_recipe_list</item>
+    <item name="ingredients_recycler_view" type="id">ingredients_recycler_view</item>
+    <item name="empty_list_view" type="id">empty_list_view</item>
+    <item name="button_reload" type="id">button_reload</item>
+    <item name="text_view_servings" type="id">text_view_servings</item>
+    <item name="image_view_recipe_image" type="id">image_view_recipe_image</item>
+    <item name="next_previous_indicator" type="id">next_previous_indicator</item>
+    <item name="text_view_step" type="id">text_view_step</item>
+    <item name="video_step_detail_exoplayer_view" type="id">video_step_detail_exoplayer_view</item>
+    <item name="thumbnail_step_detail_image_view" type="id">thumbnail_step_detail_image_view</item>
+    <item name="steps_recycler_view" type="id">steps_recycler_view</item>
+    <item name="button_next" type="id">button_next</item>
+    <item name="button_previous" type="id">button_previous</item>
+</resources>

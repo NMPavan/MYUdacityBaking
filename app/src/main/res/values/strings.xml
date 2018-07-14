@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="action_ingredients">Ingredients</string>
+
+    <string name="last_viewed_ingredients">Last viewed ingredients</string>
+    <string name="servings_text">Servings:\u0020</string>
+
+    <string name="title_activity_fullscreen_video">FullscreenVideoActivity</string>
+    <string name="indicator_next">Next</string>
+    <string name="indicator_previous">Previous</string>
+    <string name="app_message_empty_list">No Recipe available  tap screen to reload</string>
+    <string name="action_steps">action_steps</string>
+
+
+</resources>
